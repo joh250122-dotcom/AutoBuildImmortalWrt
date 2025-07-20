@@ -62,6 +62,12 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
+PACKAGES="$PACKAGES luci-app-mosdns
+PACKAGES="$PACKAGES luci-app-nlbwmon
+PACKAGES="$PACKAGES luci-app-parentcontrol
+PACKAGES="$PACKAGES luci-app-samba4
+PACKAGES="$PACKAGES luci-app-unblockneteasemusic
+PACKAGES="$PACKAGES luci-app-adguardhome
 # docker
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 # 文件管理器
